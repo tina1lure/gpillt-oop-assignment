@@ -5,6 +5,13 @@ A simplified medical question-answering system for **elderly polypharmacy** scen
 > **Disclaimer:** This repository is for **educational purposes only**. Drug data, interaction rules, and responses are **sample/demo logic**, not real medical advice. No external APIs are used.
 
 ---
+## Report
+
+The final assignment report is available here:
+
+[Download GPillT OOP Report](docs/GPillT_OOP_Report.pdf)
+
+---
 
 ## Overview
 
