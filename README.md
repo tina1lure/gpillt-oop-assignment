@@ -1,4 +1,4 @@
-# GPillT: Inheritance and Polymorphism in a Medical QA System
+# GPillT: Polymorphism through Inheritance in a Medical QA System
 
 A simplified medical question-answering system for **elderly polypharmacy** scenarios, built to demonstrate **Python object-oriented programming**—especially **inheritance** and **polymorphism**.
 
